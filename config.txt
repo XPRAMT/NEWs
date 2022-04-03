@@ -21,10 +21,6 @@
       "name": "中視新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=_QbRXRnHMVY",
-      "name": "中天新聞"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=4Uc00FPs27M",
       "name": "公共電視"
     },
@@ -45,32 +41,12 @@
       "name": "TVBS56"
     },
     {
-      "url": "https://www.youtube.com/watch?v=L4a9mAc8634",
-      "name": "中天亞洲"
-    },
-    {
       "url": "https://www.youtube.com/channel/UCp2f7tGJGN6R9Muxipem8Nw/live",
       "name": "寰宇新聞"
     },
     {
-      "url": "https://www.youtube.com/watch?v=q1IprRWXm2E",
-      "name": "璐洛洛"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=DTNkEm6jaqQ",
-      "name": "大愛二臺"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=dp8PhLsUcFE",
-      "name": "Bloomberg Global Financial News"
-    },
-    {
       "url": "https://www.youtube.com/watch?v=CKjSm5ZeehE",
       "name": "三立 iNEWS 新聞"
-    },
-    {
-      "url": "https://www.youtube.com/watch?v=wJ_P8XvobIQ",
-      "name": "Peppa Pig Official Channel"
     },
     {
       "url": "http://stream.nexttv.com.tw/n001/playlist.m3u8",
